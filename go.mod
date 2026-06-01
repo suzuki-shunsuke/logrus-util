@@ -3,7 +3,7 @@ module github.com/suzuki-shunsuke/logrus-util
 go 1.24.5
 
 require (
-	github.com/mattn/go-colorable v0.1.14
+	github.com/mattn/go-colorable v0.1.15
 	github.com/sirupsen/logrus v1.9.4
 )
 
